@@ -1,0 +1,24 @@
+.main1{
+    text-align: center;
+    
+}
+.main2{
+text-align: center;
+}
+
+.m{
+width: 33.3%;    
+    float: left;
+    text-align: center;
+}
+i{
+
+color: blue;
+
+
+background-color:bisque;
+
+}
+.clear{
+    clear: both;
+}
